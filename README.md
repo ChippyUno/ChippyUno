@@ -1,7 +1,9 @@
-## Hi there 👋
-This Portfolio includes all the Intro to Data Science course work. It also includes my technical skills.
+## Data Science Projects
+This Portfolio includes all the Intro to Data Science course work and personal projects. It also includes my technical skills.
 
-**Skills**: Python, R, Data Visualization, Regression. 
+**Skills**: Python, R, various Data Visualization tools, Regression. 
+
+**Link to Data Science Repository**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio 
 
 <!--
 **ChippyUno/ChippyUno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
