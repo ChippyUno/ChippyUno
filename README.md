@@ -1,5 +1,5 @@
 ## Data Science Projects
-This Portfolio includes all the Intro to Data Science course work and personal projects. It also includes my technical skills.
+In this section I will present all Data Science related projects and research. It also includes my technical skills.
 
 **Skills**: Python, R, various Data Visualization tools, Regression. 
 
