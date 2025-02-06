@@ -1,8 +1,8 @@
 ## Data Science Projects
-In this section I will present all Data Science related projects and research. It also includes my technical skills.
-
+My name is James Chen and I major in Finance. For my interests outside of school, I enjoy Fencing, Cooking, listening to music, and exploring the world. 
+**Current Projects**: In this section I will present all Data Science related projects and research, primarily focused on data visualization. 
 **Skills**: Python, R, various Data Visualization tools, Regression. 
-
+**Goals**: By the end of the semester, I hope I will be more proficient in coding skills. Additionally, I would love to learn any thing that broadens my knowledge in Data Science
 **Link to Data Science Repository**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio 
 
 <!--
