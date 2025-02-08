@@ -7,6 +7,9 @@ My name is James Chen and I major in Finance. For my interests outside of school
 
 **Goals**: By the end of the semester, I hope I will be more proficient in coding skills. Additionally, I would love to learn any thing that broadens my knowledge in Data Science
 
+**Contact**: zchen24@nd.edu
+
+
 **Link to Data Science Repository**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio 
 
 <!--
