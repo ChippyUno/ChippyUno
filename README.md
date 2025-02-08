@@ -1,4 +1,6 @@
 ## Data Science Projects
+
+<h1>About Me</h1>
 My name is James Chen and I major in Finance. For my interests outside of school, I enjoy Fencing, Cooking, listening to music, and exploring the world. 
 
 **Current Projects**: In this section I will present all Data Science related projects and research, primarily focused on data visualization. 
