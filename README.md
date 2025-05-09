@@ -11,7 +11,7 @@ My name is James Chen, a current Junior at the University of Notre Dame. I major
 
 **Goals**: By the end of the semester, I hope I will be more proficient in coding skills. Additionally, I would love to learn any thing that broadens my knowledge in Data Science
 
-**Contact**: zchen24@nd.edu
+**Contact**: zchen24@nd.edu +1-415-518-6398
 
 
 **Link to Data Science Repository**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio 
