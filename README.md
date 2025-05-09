@@ -1,6 +1,6 @@
-# About Me
+# Hello! Welcome to My Page
 
-My name is James Chen and I major in Finance. For my interests outside of school, I enjoy Fencing, Cooking, listening to music, and exploring the world. 
+My name is James Chen, a current Junior at the University of Notre Dame. I major in Finance and minor in Data Science. For my interests outside of school, I enjoy Fencing, cooking, listening to music, and exploring the world. 
 
 #### Current Projects 
 In this section I will present all Data Science related projects and research, primarily focused on data visualization. 
@@ -9,7 +9,8 @@ In this section I will present all Data Science related projects and research, p
   - Python
   - R
   - VSCode
-  - Regression
+  - Excel
+  - Series of data analysis skills
 
 **Goals**: By the end of the semester, I hope I will be more proficient in coding skills. Additionally, I would love to learn any thing that broadens my knowledge in Data Science
 
